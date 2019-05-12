@@ -1,0 +1,17 @@
+# CARA PENGGUNAAN #
+
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install php
+$ git clone https://github.com/oxlynx/spamwa
+$ ls
+$ cd spamwa
+$ php call.php
+$ php wa.php
+
+NOTE :
+     php call.php = untuk spam panggilan
+     php wa.php = untuk spam pesan
+
+
+Creator : OxLynx
